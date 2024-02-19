@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e7ca7d6-558c-4f9e-affe-8dac235d133c" name="Changes" comment="Add tests in main()">
-      <change beforePath="$PROJECT_DIR$/src/Processo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Processo.java" afterDir="false" />
+    <list default="true" id="4e7ca7d6-558c-4f9e-affe-8dac235d133c" name="Changes" comment="Implement abstract methods and add overridden constructor and execute() method">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +99,28 @@
       <option name="project" value="LOCAL" />
       <updated>1708327689133</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add setter for nome">
+      <created>1708327950460</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327950460</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add class ProcessoRicorrente that extends Processo">
+      <created>1708328035735</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708328035735</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Implement abstract methods and add overridden constructor and execute() method">
+      <created>1708328283214</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708328283214</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +143,10 @@
     <MESSAGE value="Implement method execute()" />
     <MESSAGE value="Implement getters" />
     <MESSAGE value="Add tests in main()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add tests in main()" />
+    <MESSAGE value="Add setter for nome" />
+    <MESSAGE value="Add class ProcessoRicorrente" />
+    <MESSAGE value="Add class ProcessoRicorrente that extends Processo" />
+    <MESSAGE value="Implement abstract methods and add overridden constructor and execute() method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement abstract methods and add overridden constructor and execute() method" />
   </component>
 </project>
