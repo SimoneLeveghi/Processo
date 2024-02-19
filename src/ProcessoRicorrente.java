@@ -1,4 +1,4 @@
-public class ProcessoRicorrente extends Processo {
+public abstract class ProcessoRicorrente extends Processo {
     private int timesExecuted;
 
     public ProcessoRicorrente(String nome) {
@@ -8,11 +8,6 @@ public class ProcessoRicorrente extends Processo {
 
     public int getTimesExecuted() {
         return this.timesExecuted;
-    }
-
-    @Override
-    protected void body() {
-        System.out.println("ProcessoRicorrente in sviluppo");
     }
 
     @Override

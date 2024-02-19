@@ -9,7 +9,12 @@ public class Main {
 
         p.execute();
 
-        ProcessoRicorrente pr = new ProcessoRicorrente("ProvaRicorrente");
+        ProcessoRicorrente pr = new ProcessoRicorrente("ProvaRicorrente") {
+            @Override
+            protected void body() {
+                System.out.println("ProcessoRicorrente in sviluppo");
+            }
+        };
         pr.execute();
         pr.execute();
         System.out.println("ProcessoRicorrente eseguito " + pr.getTimesExecuted() + " volte");
