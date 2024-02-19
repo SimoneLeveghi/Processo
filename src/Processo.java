@@ -17,4 +17,10 @@ public abstract class Processo {
         System.out.println("Processo terminato");
         this.fatto = true;
     }
+
+    public void execute() {
+        start();
+        body();
+        end();
+    }
 }
