@@ -11,6 +11,10 @@ public abstract class Processo {
         return nome;
     }
 
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
     public boolean isFatto() {
         return fatto;
     }
