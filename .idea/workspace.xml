@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e7ca7d6-558c-4f9e-affe-8dac235d133c" name="Changes" comment="Implement getters">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="4e7ca7d6-558c-4f9e-affe-8dac235d133c" name="Changes" comment="Add tests in main()">
+      <change beforePath="$PROJECT_DIR$/src/Processo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Processo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708327522714</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add tests in main()">
+      <created>1708327689133</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327689133</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +121,7 @@
     <MESSAGE value="Add abstract method body()" />
     <MESSAGE value="Implement method execute()" />
     <MESSAGE value="Implement getters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement getters" />
+    <MESSAGE value="Add tests in main()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tests in main()" />
   </component>
 </project>
