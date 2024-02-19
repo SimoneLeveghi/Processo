@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e7ca7d6-558c-4f9e-affe-8dac235d133c" name="Changes" comment="" />
+    <list default="true" id="4e7ca7d6-558c-4f9e-affe-8dac235d133c" name="Changes" comment="Implement getters">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2cZlgZbJB1w0oHN1gaNJnk7d59g" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +43,77 @@
       <option name="presentableId" value="Default" />
       <updated>1708327095413</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1708327151622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327151622</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add class Processo">
+      <created>1708327168470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327168470</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add boilerplate to class Processo">
+      <created>1708327257738</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327257738</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Implement methods start() and end()">
+      <created>1708327351548</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327351548</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add abstract method body()">
+      <created>1708327393087</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327393087</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implement method execute()">
+      <created>1708327460882</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327460882</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Implement getters">
+      <created>1708327522714</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708327522714</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Add class Processo" />
+    <MESSAGE value="Add boilerplate to class Processo" />
+    <MESSAGE value="Implement methods start() and end()" />
+    <MESSAGE value="Add abstract method body()" />
+    <MESSAGE value="Implement method execute()" />
+    <MESSAGE value="Implement getters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement getters" />
   </component>
 </project>
