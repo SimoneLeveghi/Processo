@@ -7,4 +7,12 @@ public abstract class Processo {
         this.fatto = false;
     }
 
+    private void start() {
+        System.out.println("Processo iniziato");
+    }
+
+    private void end() {
+        System.out.println("Processo terminato");
+        this.fatto = true;
+    }
 }
