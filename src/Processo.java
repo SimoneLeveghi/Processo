@@ -11,6 +11,8 @@ public abstract class Processo {
         System.out.println("Processo iniziato");
     }
 
+    protected abstract void body();
+
     private void end() {
         System.out.println("Processo terminato");
         this.fatto = true;
