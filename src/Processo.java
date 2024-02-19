@@ -7,6 +7,14 @@ public abstract class Processo {
         this.fatto = false;
     }
 
+    public String getNome() {
+        return nome;
+    }
+
+    public boolean isFatto() {
+        return fatto;
+    }
+
     private void start() {
         System.out.println("Processo iniziato");
     }
